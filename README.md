@@ -1,2 +1,2 @@
 # SAS_Training
-This folder containsmy SAS training datasets and files
+This folder contains my SAS training datasets and files
